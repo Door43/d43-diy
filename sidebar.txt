@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[diy:home|Door43 (diy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-diy|d43-diy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-diy/archive/master.zip|d43-diy.zip]]
+
+**Recent Changes**
+{{changes>ns = diy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/diy|Ethnologue data]]
+
